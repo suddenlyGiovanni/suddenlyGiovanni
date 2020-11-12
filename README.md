@@ -10,6 +10,7 @@ These are also useful links to find out more about [who I am][about-me], my [Ré
 
 ### Latest coding challenge:
 
+- 2020: [coding_challenge--game_of_three](https://github.com/suddenlyGiovanni/coding_challenge--game_of_three)
 - 2020: [coding_challenge--tic_tac_toe](https://github.com/suddenlyGiovanni/coding_challenge--tic_tac_toe)
 - 2019: [coding_challenge--tool_time](https://github.com/suddenlyGiovanni/coding_challenge--tool_time)
 - 2019: [coding_challenge--freighthub](https://github.com/suddenlyGiovanni/coding_challenge--freighthub)
