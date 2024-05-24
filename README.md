@@ -19,7 +19,7 @@ These are also useful links to find out more about [who I am][about-me], my [Ré
 - 2017: [spiced_academy--p2p_chat](https://github.com/suddenlyGiovanni/spiced_academy--p2p_chat)
 
 [//]: #
-[website]: https://suddenlyGiovanni.dev
+[website]: https://www.suddenlyGiovanni.dev
 [about-me]: https://www.suddenlygiovanni.dev/about-me
 [resume]: https://www.suddenlygiovanni.dev/resume
 [motivations]: https://www.suddenlygiovanni.dev/motivations
